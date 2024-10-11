@@ -9,36 +9,81 @@ driver = webdriver.Firefox(options=options)
 
 #Searching each page and adding pool ids to csv
 def pagesearch(id_list, all_links_list):
-
+    
     for tourn in id_list:
         #Navigating to pool page
         driver.get("https://fencingtimelive.com/tournaments/eventSchedule/" + tourn)
-        epee = driver.find_element(By.XPATH, "//tbody/tr[1]/td[2]/a")
-        epee.click()
-        pools = driver.find_element(By.XPATH, "//ul/li[6]/a")
-        pools.click()
-        pool_page = driver.current_url
-        #Grabbing pool ids and storing in list
-        id_store = driver.find_element(By.ID, "mainContent")
-        id_store_divs = id_store.find_elements(By.XPATH, ".//div[@id]")
-        pool_raw_ids = []
-        pool_ids = []
-        pool_data_links = []
-        for div in id_store_divs:
-            pool_raw_ids.append(div.get_attribute("id"))
-        #Removing useless information from id
-        for raw_id in pool_raw_ids:
-            pool_ids.append(raw_id.replace("pool_", ""))
-        #Getting links for each pool
-        for id in pool_ids:
-            link = pool_page + "/" + id
-            pool_data_links.append(link.replace("scores","details") + "/data")
+        
+        events = driver.find_elements(By.CLASS_NAME, "clickable-row")
+        event_list = []
+        for i in events:
+            j ="https://fencingtimelive.com" + i.get_attribute("data-href")
+            event_list.append(j)
+
+        for event in event_list:
+            driver.get(event)
+            pools = driver.find_element(By.XPATH, "//ul/li[6]/a")
+            pools.click()
+            pool_page = driver.current_url
+
+            #Grabbing pool ids and storing in list
+            id_store = driver.find_element(By.ID, "mainContent")
+            id_store_divs = id_store.find_elements(By.XPATH, ".//div[@id]")
+            pool_raw_ids = []
+            pool_ids = []
+            pool_data_links = []
+            for div in id_store_divs:
+                pool_raw_ids.append(div.get_attribute("id"))
+
+            #Removing useless information from id
+            for raw_id in pool_raw_ids:
+                pool_ids.append(raw_id.replace("pool_", ""))
+
+            #Getting links for each pool
+            for id in pool_ids:
+                link = pool_page + "/" + id
+                pool_data_links.append(link.replace("scores","details") + "/data")
     
-        #Adding to final list  
-        for link in pool_data_links:
-            all_links_list.append(link)
+             #Adding to final list  
+            for link in pool_data_links:
+                all_links_list.append(link)
 
+def elocalc(pools):
 
+    for pool in pools:
+        driver.get(pool)
+        pool_table = driver.find_element(By.XPATH, "//table/tbody")
+        pool_matches = pool_table.find_elements(By.TAG_NAME, "tr")
+        fencer_1 = ""
+        fencer_2 = ""
+        vd = ""
+        elo_fencer_1 = 0
+        elo_fencer_2 = 0
+        elo_change = 0
+        k = 30
+        expected = 0;
+        fencer_1_win = True
+        fencer_2_win = True
+
+        for m in pool_matches:
+            match_results = m.find_elements(By.TAG_NAME, "td")
+            for i in range(0,len(match_results)):
+                if i == 1:
+                    fencer_1 = match_results[i].text
+                elif i == 4: 
+                    fencer_2 = match_results[i].text
+                elif i == 2:
+                    vd = match_results[i].text
+            if "V" in vd:
+                fencer_1_win = True
+                fencer_2_win = False
+            elif "D" in vd:
+                fencer_1_win = False
+                fencer_2_win = True
+
+            print(fencer_1, vd, fencer_2, fencer_1_win, fencer_2_win)
+            #Calculate elo and add to json
+            
 
 links = []
 #Getting Page
@@ -94,7 +139,8 @@ tournaments.remove("B2B647667E61440C990D3733E938C152")
 tournaments.remove("F31345B625AC4139A18C000A2FBCA8E9")
 tournaments.remove("6B3BC0D004094AEF90C461F8A296A0C0")
 
-pagesearch(tournaments, links) 
 
+pagesearch(tournaments, links) 
+elocalc(links)
 
 
