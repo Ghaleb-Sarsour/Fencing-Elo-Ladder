@@ -1,4 +1,4 @@
-#importing functions from other files
+import json
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 
@@ -48,45 +48,7 @@ def page_search(id_list, all_links_list):
             for link in pool_data_links:
                 all_links_list.append(link)
 
-def elo_calc(pools, store):
-
-    for pool in pools:
-        driver.get(pool)
-        pool_table = driver.find_element(By.XPATH, "//table/tbody")
-        pool_matches = pool_table.find_elements(By.TAG_NAME, "tr")
-        fencer_1 = ""
-        fencer_2 = ""
-        fencer_1_score = ""
-        fencer_2_score = ""
-        elo_fencer_1 = 0
-        elo_fencer_2 = 0
-        elo_change = 0
-        k = 30
-        expected = 0;
-        fencer_1_win = True
-        fencer_2_win = True
-
-        for m in pool_matches:
-            match_results = m.find_elements(By.TAG_NAME, "td")
-            for i in range(0,len(match_results)):
-                if i == 1:
-                    fencer_1 = match_results[i].text
-                elif i == 4: 
-                    fencer_2 = match_results[i].text
-                elif i == 2:
-                    fencer_1_score = match_results[i].text
-                elif i == 3:
-                    fencer_2_score = match_results[i].text
-            if "V" in fencer_1_score:
-                fencer_1_win = True
-                fencer_2_win = False
-            elif "D" in fencer_1_score:
-                fencer_1_win = False
-                fencer_2_win = True
-
-            print(fencer_1, fencer_1_score, fencer_2_score, fencer_2, fencer_1_win, fencer_2_win)
-            
-
+           
 
 def advanced_search(tournaments): 
     #Getting Page
@@ -141,12 +103,104 @@ def advanced_search(tournaments):
     tournaments.remove("F31345B625AC4139A18C000A2FBCA8E9")
     tournaments.remove("6B3BC0D004094AEF90C461F8A296A0C0")
 
-links = []
-tournaments_list_final = []
-stored_data = {}
 
-advanced_search(tournaments_list_final)
-page_search(tournaments_list_final, links) 
-elo_calc(links, stored_data)
+def calc(pools, store):
+
+    for pool in pools:
+        driver.get(pool)
+        pool_table = driver.find_element(By.XPATH, "//table/tbody")
+        pool_matches = pool_table.find_elements(By.TAG_NAME, "tr")
+        fencer_1 = ""
+        fencer_2 = ""
+        fencer_1_score = ""
+        fencer_2_score = ""
+        elo_fencer_1 = 0
+        elo_fencer_2 = 0
+        elo_change = 0
+        k = 30
+        expected = 0;
+        fencer_1_win = True
+        fencer_2_win = True
+        addfen1 = True
+        addfen2 = True
+
+        for m in pool_matches:
+            match_results = m.find_elements(By.TAG_NAME, "td")
+            for i in range(0,len(match_results)):
+                if i == 1:
+                    fencer_1 = match_results[i].text
+                elif i == 4: 
+                    fencer_2 = match_results[i].text
+                elif i == 2:
+                    fencer_1_score = match_results[i].text
+                elif i == 3:
+                    fencer_2_score = match_results[i].text
+            if "V" in fencer_1_score:
+                fencer_1_win = True
+                fencer_2_win = False
+            elif "D" in fencer_1_score:
+                fencer_1_win = False
+                fencer_2_win = True
+            
+            fen1 = {
+                "name": fencer_1,
+                "rating": 1000,
+                "wins": 0,
+                "losses": 0,
+                "points earned": 0,
+                "points lossed": 0
+            }
+            fen2 = {
+                "name": fencer_2,
+                "rating": 1000,
+                "wins": 0,
+                "losses": 0,
+                "points earned": 0,
+                "points lossed": 0
+            }
+            
+            #for dict in store:
+            #    if fen1["name"] == dict["name"]:
+            #        addfen1 = False
+            #    if fen2["name"] == dict["name"]:
+            #        addfen2 = False;
+            
+            if addfen1:
+                store.append(fen1)
+            if addfen2:
+                store.append(fen2)
 
 
+            #print(fencer_1, fencer_1_score, fencer_2_score, fencer_2, fencer_1_win, fencer_2_win)
+ 
+
+
+
+list1 = []
+list2 = []
+data = []
+add = True
+
+advanced_search(list1)
+page_search(list1, list2)
+calc(list2, data)
+
+driver.quit()
+
+
+
+with open("./fencingdata.json", "r") as f:
+    jsondata = json.load(f)
+
+
+for i in data:
+    for j in jsondata:
+        if i["name"] == j["name"]:
+            add = False;
+            break
+        add = True;
+    if add:
+        jsondata.append(i)
+
+with open("./fencingdata.json", 'w') as f:
+    json.dump(jsondata, f, indent=4)

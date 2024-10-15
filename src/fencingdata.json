@@ -1,0 +1,7122 @@
+[
+    {
+        "name": "YANG Alan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SMITH Jailyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DAVIS Evan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SU Owen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHAW Ian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FIFTAL Grayson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "O'CONNOR Riley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CAPOOR Milan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Bryan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARKER Jordan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ZHOU Steven",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FIELD Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MCMEEKIN Nolan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MURRAY Chase",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KAPPEL Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIU Eric",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROGERS Rashad",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PATEL Pratik",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAMSEY Zander",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WONG Samuel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YI Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAGE Nicholas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NAHMIAS Michael",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CUI Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JOHNSON Javonte",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GUDAPATI Rahul",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEWIS William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HORVATH Max",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FELDSTEIN Ryan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DONEGAN Caden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PONDER Alfred",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BARRETT Luke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PAGE Adrian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KNOWLES Owen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BERKOWITZ Jeffrey",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MISKELL Will",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COFER Gabe",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PAYNE Gareth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JUNG Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROBINSON Calin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARTIGNETTI Brycen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THUN William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LI Atlas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MAZZEO Michael",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AGHEDO Prince",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SMITH Caleb",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAMILTON Rafe",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GALLAGHER Reece",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARTIN Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAQUE Nahan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SONG Ervin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BARRETT Austin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CRAIG Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MEDLEY Caydance",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DOYLE David",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Kennith",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LAM Timothy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HARTIG Larisa",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CAI Catelynn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POLLIEN Maddie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TRACY Ravyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAMELBERG Julia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BOHM Madie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ADAMS Eva",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WILSON Lauren",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOLM Freyja",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MAGALLANES Sarah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BANNER Jasmine",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROSENFELD Sydney",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PENG Olivia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YU Olivia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COCHRAN Marin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THOMSON Cassie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARTIN Alexandra",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHHABRA Aryana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BRITTON Kiera",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MATTHIE Gabrielle",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MIHILL Maggie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REA Isabella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "EICHELE Simon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NGUYEN Audrey",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Sophie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HILL Evelyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BURKE Kate",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KUMAR Ajay",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JAFAAR Omar",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PETE Landon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ZHANG Eric",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "URIBE Nico",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PAEK Sean",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHAN Earnest",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JACKSON James",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "XHEMALI Nathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NICKERSON Oliver",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Teddy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VACCARO Dominick",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ORTHOUS Lucas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AHN Yuchan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOPKINS John",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCHERNIKAU Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KODURU Pranav",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KUMAR Nithin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SOSNIN William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BUCHALTER Brandon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SONG Austin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ZHANG Andy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SINGH Siddhan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TRAN William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MAROTO KIPS Nicolas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KANE Connor",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Dylan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHO Tyler",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GARCIA Carlos",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PATEL Krishiv",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SARSOUR Ghaleb",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEHRENS Rowan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TREBON Hayden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JAFAAR Hamza",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIANG Jacob",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PAK Matthew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SONG John",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BERENSON Blair",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BASKIN Miles",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SEBUSCH Aidan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BUXTON Preston",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARNAS Ely",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MUKKALAMA Milind",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ARUN Vikhyat",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEDULLA Asher",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DIAMOND Noah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WOOD William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MAZZOTTA Elio",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YANG Chris",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Maxwell",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DIXON Nicholas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MUNAGAPATI Vishwa",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ALAM Wasim",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HARRISON Kal'el",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BUCKNER Gabriel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARR Gavin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "APLIN Canyon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JEON Hwidong",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GOEL Karunya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GRIMES Kayli",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SRINIVASA Neha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Aria",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GROSS Ella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SUNG Lauren",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAWKINS Sophia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BUSSEY Ava",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAYMOND Chloe",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Zarina",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NEELAM Neha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SATHEES Abisha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHENG Emma",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JAMES Amaris",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ARREOLA Juana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LYONS Morgan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MONAGHAN Samantha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MOON Nicole",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NWOKOLO Lotenne",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEHER Kate",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JARAMILLO Addy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHADHA Kalpana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MATHESON Hailey",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SMITH Hannah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BHATIA Samreen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHIM Emma",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PENNINGTON Amelia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOMBALAH Saanvi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PURI Amrita",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHEEK Aiden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DUNCAN Audra",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Kayley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DONGES Anna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHINTA Deetya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "EDWARDS Auprell",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHANKAR Ipsa",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ENGLISH Marli",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PANDEY Anjali",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WEEKS Charlotte",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SRINIVASAN Varsha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MITCHELL Phara",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VICK Tristan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BHARATH SHANKAR Navya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHIPP Avery",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAHN Rebecca",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NALLAGONDA Kaavya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CLAUS Elizabeth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YERRAMSETTY Anvita",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEWANDOWSKI Peyton",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MILLER Grace",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SINGH Siddhant",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SRAMBIKKAL Pranav",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GILELACH Joseph",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WEN George",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MALIKOV Zinnun",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Theodore",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GEBELEIN Will",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SOSNIN William (Wes)",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHAFRITZ Noah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KHORANA Raahil",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SONG Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHANNON Ashtyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHOI David",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARTINEZ Robert",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KAHN Spencer",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GOLDEN Ryan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FRANCIS Jahkai",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HENDRY Matthew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JAHNG Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MADISON Reese",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BABBAR Dev Kran",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SRIVATSA Rohan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PADALA Nyneeshia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ARMSTRONG Amberly",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KOHLI Risha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YERREMSETTI Anita",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JENNINGS Natalie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RODRIGUEZ Gabriela",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAHU Vira",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GOUGHNOUR Jonni",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MAZLOUT Mayssam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BHATIA Samreen Lalit",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MILLER Ella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VATTI Neha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KAVITHA Hreem",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEASLEY Raelyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAFFERTY Catherine",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Claire",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SIDES Mary Ann",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MEDLEY Caydice",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KELLY John",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARARO Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PATEL Armand",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LASSITER Finnegan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PHAENGSOOK Bryce",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REECE Gallagher",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "STOUT Tyler",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Ray",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SMITH Jalin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCHMIEDEKNECHT Max",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHUI Toby",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WINSTON-MORGAN Bryce",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCOTT Judah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LUSSIER Aidan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHOI Alan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HEARN Greg",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAQUE Nuhan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHEUNG Edwin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAVANI Paras",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CLAYTON Jourdan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAASE Erik",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DODDS Cheyenne",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KLEPPER Gryphon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHAN Ernest",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCOTT Caleb",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JUDAH Molly",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BOHM Madi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DIXON Claira",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARROLL Ellan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "OKI POMEROY Sydney",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MATTHIE Gabbie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BARAMOV Yanna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KAUR Mehrpreet",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BURKE Nate",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HARRELL Olivia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HANDS Sofia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SARASWAT Asmita",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROSENFELD Emma",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAHN Fenja",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHUGART Molly",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHOI Elizabeth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NETTLES Sydney",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MILLER Kate",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BREMER Blake",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NEJA Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIVINGSTON Lucas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WILMINK Andreas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TURNER Seldon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "OCHI Yo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THALHIMER Jacob",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PONDER III Alfred",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GORAV Carthik",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LALWANI Aditya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HUTTO Joshua",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KRITTIDEJ Brice",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TURK Reggie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DIZON Nicholas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TARUVINGA Ariston",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JAHNG Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ENG Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MINNIFIELD Skyy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ATKINSON Kennedy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Ashley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GLENN Jon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ALEXANDER Jibreel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CRANDALL Kenneth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHANG James",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIM Kason",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JACKSON Nathaniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FRIEDEL Noah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MENDONCA Gia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MCCOY Sakai",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIU Anna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THALLURU Tarun",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROPER Adam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DUNAGAN Nathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DIXON Claria",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SELINBERG Suyalina",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCHARF Ryan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PHARR Demetrius",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHIU Toby",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHEN Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KHAN Spencer",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PHAENGSOOK Brice",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KELLS Aiden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BARBE Marc-Alexander",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEASLEY Rhaelyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FENMORE Taylor",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GORHAM Ashley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YALCIN Selin Bengisu",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LUMPKIN Brooklyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SEBUSCH Aiden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AHN Anthony",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JOO Brayden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KING Seth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARAWAY Achilles",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAKIM Allistair",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GALLAGER Reece",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PERRY-ROLAND Mateo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROCKWELL Nolan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOUIS DJ",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SOSNIN Wes",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HESTER Bruce",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BHARDAWAJ Akshaj",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ARUL ARASU Xavistin Christopher",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LYONS Milo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LU Ethan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CUNNINGHAM Marvin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REDDY Daksh",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHADRAN Arjun",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PANKAU Sonya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARTER Zaia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CATLIN Rena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YALCIN Su",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RODDERO Araiza",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAMBRICK Addison",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROSENFELD Jackie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JONES Katriel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BASKIN Julia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VINES Laylah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BERKOWITZ Hava",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COX Lily",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARK Jean",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HERNANDEZ Sadie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PATIL Amulya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BANDA Marli",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VISSA Vasisht",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KRACHMAN Lionel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VANDERVELDE Sam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HUBBELL Sean",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Aaron",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCOTT Nicholas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MANOJ Abhiram",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MAROTO Nicolas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIU Jacob",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TRAN Khai",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WISE Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARBAJAL Jonathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CAMPBELL Kamau",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AMER Jamal",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TAM Ethan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIN Kason",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "STALEMARK Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAJ RANA Viren",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "OTIS Evan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TANAKA Syte",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ACOSTA Santiago",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "OLSON Ray",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WHEELER Noah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ANSLEY Samuel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ORENSTEIN Zayden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GARG Shiv",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DEMERITT Ari",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MEHLBERGER Luke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SUGGS Malik",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WON Donghyun",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FAN Yuchen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WILCOX Hoke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VALEZQUEZ Ethan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CULOTTA Sam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BURGESS Owen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NEWTON Quinn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GUNTIPALLI Hansika",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NALLAGONDA Ramya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DAS Mahika",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NAVIN Elizabeth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHEN Amity",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WESTFALL Marin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YANG Katie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SEESINK Aurora",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHRESTHA Somie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FLYNN Bridget",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Joo Eun",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BRELAND Katherine",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAVULA Neha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GREEN Caroline",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KRACHMAN Anna Lila",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POPESCU Briana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MITCHELL Pharra",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHANDA Samyuktha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ISAYA Khamila",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SIEGEL Gabriella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AHMAD Fatima",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FLOOD Audrey",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WILSON Kaelin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VALENCIA Elena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAMASSA Sopphie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KRACHMAN Anna Lily",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHAVEZ Leon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DAVIS Kaitlin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DURAN-DIAZ Shayla",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOMBAIAH Saanvi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KUMAR Anusha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WILLIAMS Sabien",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DENOZIERE Owen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GILEACH Joseph",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NCHO J",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEDDY James",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KANE Thomas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MCKEEKIN Nolan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JUNG Joshua",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MILLER Brendan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DAVIS Kaiden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CURRAN Howard-Smith",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARNEY Jameson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YOU Allen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HUFF Arianna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "OKI-POMEROY Sparrow",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Lauren",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROWELL Lilly",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCHUESSLER Sylvia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHASTAIN Allie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SIEGEL Gabrielle",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DAVIS Ansley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PADALA Nynee",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FORTUNA Gigi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AURISCH Chloe",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEASLEY Rhealyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CERVANTES Jennifer",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VELAZQUEZ Ethan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "OLDHAM Aidan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NGUYEN Joseph",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KING Evan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHIU Jamie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NORMAN Benji",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GURCH Alexander",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ANSLEY Sam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KING Rory",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GEDDAM Bhav",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MAYO Candler",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHADMON Anthony",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MENON Rahul",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NORTH Ian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GREER Fletcher",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RIGGINS Joshua",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAGHU Parnav",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CONNOLLY Liam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AKBAR Raza",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TRAN Thomas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RODGERS Kaden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BALAKRISHNAN Arvind",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LUEDER Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ELLIOT Chase",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIU Ziyi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PHAENGSOOK Kritidej",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOPEZ Luis",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CINTRON Asher",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BORDERICK Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ANDERSON Gavin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAM Nihaal",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KLEPAL Spencer",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WASHINGTON Khalil",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GEGELEIN Will",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WALLACE Gwyneth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARTIN Tessa",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THOLEN Ava",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GILLIS Elise",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HART Keziah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DEAN Rachel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WATSON Olivia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MUDUMBAI Varshini",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VELLURI Eesha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MANGUM Elizabeth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PAKULATH Nihal",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ELLERBEE Addison",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JONES Felicity",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAMO Madelyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DOYLE Brody",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAGHU Pranav",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NGUYEN Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VAUGH Jason",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SMITH Garrity",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BRODERICK Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PHAENGSOOK Krittidej",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JOHNSTON Grayson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BRADFIELD Ryan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHEARD Tyron",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BARBE Marc Alexander",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ELLIOTT Chase",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MO Ben",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LE Jonathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PAZOS Andy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WONG Priscilla",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WOODS Taylor",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WHALEY Juliette",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TAK Jemi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Joanne",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LU Karina",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEFEKADU Frazer",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GOGSTAD Nate",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ITO Shohei",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HALL Liam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HE Jason",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ZHOU Hudson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HWANG Brandon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PRATHER Connor",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAGE Michael",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEAGUE James",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COVERSON Micah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "O'NEILL Dylan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JUDD Nathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BOWERS Morgan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FERGUSON Leo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MENDONCIA Gia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TRIGG Micah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MENDEZ Samantha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PAKULATH Nidhi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WALKER Kacey",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TODD Isabella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAJESH Sandhya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARBAJAL SANCHEZ Jonathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARIENTE Avishi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BAKER Tyler",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THORNTON Noah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SALOMON-VAZQUEZ Gabriel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ADEGBENRO Isaiah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHRISTIE Nathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CRAVEN Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COOPER Ian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KELLY Jon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOPEZ Ivan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIU Max",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHANDRAN Arjun",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VANZURA Luke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MURPHY Devinn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FLOWERS Sofia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ENGEL Moss",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MOHAN Maanvi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHAAYA Emily",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SORANNO James",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WON Roy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOPEZ Zion",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MURO Ryan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GURRAM Sri",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AZUA DJ",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOWELL Jonothon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NAHMIAS Michal",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GRUBB Ben",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SONG Nicholas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAZAR Adrian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LE Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YOON RK",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BHARDWAJ Akshaj",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ERIZE Alejandro",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEVILACQUA Jake",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WHITE Nathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KHAN Nyal",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BROWN Hamilton",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NIMMALAPUDI Tanush",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SOARES Manuel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TANEJA Arnav",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ESHELMAN Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KALAVA Nila",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HUNTLEY JJ",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VANDER VELDE Sam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAERI Jonathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DEMAR Calvin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THIGPEN Logan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PURSER JohnMichael",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JHANG Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "UPADHYAY Arya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HUFF Abigail",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HART Kenzaih",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GRIGG Khloe",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YAU Katie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOUSMANS Emma",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GREEN Jamie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THUN Sophia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POON Heidi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MENENDEZ Samantha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CLOPPER Meredith",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MATHUR Dhriti",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DANDRIDGE Laila",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HONG Elizabeth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAHN Fenya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GARICAI-FERRER Elena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MCLAVEN Gavin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HENESY Liam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BONETT Brandon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "IYER Arjun",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RILEY Jackson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YANAMANDRA Sidhansh",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MOSLEY Khyri",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "O\u2019NEIL Dylan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YI Joshua",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MA William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BIOLSI Cooper",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PINSONEAULT Cooper",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RYU Robin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Jiayu",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOLCOMBE Robert",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARK Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KINZLER Nathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Jalon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LANE Vincent",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "STAPLETON Yan Li",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ARBOLEDA Thadeo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DAVIDENKO Alexander",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOLLINHEAD Caleb",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARRISH Gabriel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Winston",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NGUYEN-PHAM Quang Hubert",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARSHALL David",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Christopher",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHEN Jordan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SEO Luke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ZHOU Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COHEN Nate",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BAUMAN Jude",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHAVEZ Pablo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FRANCIS Shiloh",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Minchan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JOSHI Jay",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BUFORD Kinley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LANCHEROS Sarah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KAVITHA Rheem",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHHABRA Isharya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIU Elinda",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TOMIC Lana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Daubin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Sarah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SOLOMON Nile",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "UPADHYAYA Ariya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MALLIK Alessandra",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ALMOND Jo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MORRIS Hannah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MANOHAR LAKSHMI Keerthana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BALY Maya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SORIANO Atlas",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ADIRI Ella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOPEZ Allison",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REID Saniya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHENG Emily",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "QUICK Jay",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MUNGARA Riya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ELLA Youdelman",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DANG Aivy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOOVER Anna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOUEN-TOLSTRUP Max",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ANNAMBHOTLA Neha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ARULPRAGASAM Sarah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LYNCH Genevieve",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DESAI Mallika",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TAYMAZ Arya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REDMON Margaret",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MCLAREN Gavin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SANDERS Sam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "URBANAWIZ Aaron",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BAUMANN Jude",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARVAJAL Ignacio",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JAHMARI McKinney",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GAN Tzvi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KEGLEY Riley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RIVERA Noah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NGO Kevin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PREUSS Maxmilian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POYOTTE Teddy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RODAS-MIRANDA Elizabeth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DUERR Amelia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BLACKBURN Katy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REDMOND Margaret",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CARAGHER Anna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PROMOFF Julia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REID Julius",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Sean",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARTINEZ Diego",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BINGHAM Elliot",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PRESTON Max",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FILSTRUP Kai",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COZUMATA Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "REID Sanaya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KENNERLY Lexington",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NAILING Panamya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YOUDELMAN Ella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHANKAR Reena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GURRAM Srirugneth",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SERRANO Emmanuel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PREUSS Maximillian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MOCHARLA Manu",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ABBOTT Emily",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ERGLE Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ALSAHLANI Mouhtez",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ALLEN Amaan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POON Holly",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POLLACK Hudson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FILSTRUP Keaton",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RIDGEWAY Joseph",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RONEN Alon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SNIPE Kaidyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POLLIDORE Diana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BOWERS Julien",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAVANI Aayan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHOI Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHANKAR Reema",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOUNDIN Luke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DANG Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LALWANI Aditiya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CRONIN Eva",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CRONIN Anna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PERRY-ROLDAN Mateo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "EDGECOMBE Miller",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CANDELA Emilio",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MALCOLM Allison",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BROWN Remi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KELLY Skye",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEUDER Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOUDON Luke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COZMUTA Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MOYSTON Olivia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RADTKE Ava",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RUIZ Jada",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GRIFFIN Jahmari",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "POYETTE Teddy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOWELL Jonathon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GARCAI-FERRER Elena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COZMATA Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HADDAD Rossin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GANDRA Advaith",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SMALLWOOD Jacob",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HAERI Ryan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEASLEY Bryson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CONWAY Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "FOUNTAIN Jackson Elliott",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "DIEKER Edwin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAYHOUD Mouhtez",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARRADO Harrison",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MENDEZ-SILVA Matias",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THAKUR Kishan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MISHRA Pranjal",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ADCOCK Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHAIK Mohammed",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "IBRAHIM Mehdi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KRAMER Philip",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BEHRMAN Theodore",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ERIZE Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PURSER John Michael",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COOPER Rory",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JIANG Harry",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Sangone",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WALLEY Jordan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GLENN Lincoln",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RIDDLE Renzo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SIGG Noah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NGUYEN DUY Tom",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SHOUSHA Hamza",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BIOLSI Carter",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BAYSDEN Bryce",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SONG Apolo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BURKE Aiden",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WU Jeremy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MURRAY Anthony",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Lucy",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHOI Yuna",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HOOD Alex",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NAREDDY Tejaswi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KEDME Sarah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WEST Elena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MADRIGAL Katherine",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JADHAV Aditi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "APEMEKOU Gabriella",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MOTSI Fadzi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAMASSA Saffiatou",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NAVEEN Sana",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GULER Zeynep",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MILLER Arya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SAHIJRAM Samaya",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAFFERTY Claire",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PEEK Lailaa",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ALI Maleeka",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HALLIDAY Dezzalynne",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VARUGHESE Jesme",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "WANG Ziqiao",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YUSSOUFF Aseela",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ZWEIFEL Evelyn",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "STORY Daniel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BASU Avik",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "OCCHIALINI Bennett",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KLEPAL Paxton",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JEONG Arisu",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JENKINS Jackson",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TAYLOR Benjamin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ARUNACHALAM Aadhavan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BREED Freddie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHA Patrick",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NGUYEN Hubert",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "AHN Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KIM Ian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KUNCHAKURI Ritvik",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JEONG Eugene",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SNIDER Bodhi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HWANG Aidan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KHEGAY Martin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PARRISH Gabe",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BALY Amr",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEWIS Frederick",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEEMAN Christopher",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BOOKER Julian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BUCKAREFF Elijah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VAN HOOSER William",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "NAGANO Jonathan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Maddox",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CAO Kellen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SANDERS Samuel",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "JAIN Aadi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RAGLAND Benjamin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "COFER Maura",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KARANI Prisha",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LIGON Arielle",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEHMAN Opal",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "EASTMAN Maia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MADISON Olivia",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TAK Sieon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KAWALE Rachita",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MUCKLOW Audrey",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GARCIA-FERRER Elena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CONNOLLY Erin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VIKINGSON Bergen",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GATES Elliot",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LOEGEL Carter",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MEJIAS Maximo",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KNIGHT Micah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "RODGERS Jack",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "YAN Kevin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TOUSSAINT Kadaj",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BOURQUE Remie",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LINDSAY Mirah",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PATNAIK Ashwika",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BALLANTYNE Mira",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "TATIKONDA Dhatri",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ROBINSON Jane",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GRANT Cori",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GOODSON Jelani",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "HARLOW Haley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BERNDT Madeleine",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LYNCH Gigi",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SANCHEZ Sebastian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MARCHANT Isaac",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "LEE Andrew",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VALLIVEEDU Lohithaksh",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SCHILKE Edward",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GILL Santiago",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KILINIC Ahmed",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MILLER Liam",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "GUY Austin",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHUGH Amrit",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "MANNA Eshaan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CHOW Aaron",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THRELKELD Richard",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "BOOKSTON Luke",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PREUSS Maximilian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "SASSER Brandon",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "THEVIN Jayawardena",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "KHAN Ahmed",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "ANGULO Julian",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "VAIDYA Rohan",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "PINAL-ZAPATA Sandra",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    },
+    {
+        "name": "CLARK Ashley",
+        "rating": 1000,
+        "wins": 0,
+        "losses": 0,
+        "points earned": 0,
+        "points lossed": 0
+    }
+]
