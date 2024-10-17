@@ -1,0 +1,18 @@
+[
+   {
+        "match": "YANG Alan VS SMITH Jailyn V5 D4",
+        "Fencer 1": "YANG Alan",
+        "Fencer 1 Score": 5,
+        "Fencer 2": "SMITH Jailyn",
+        "Fencer 2 Score": 4,
+        "Winning Fencer": "YANG Alan"
+    },
+    {
+        "match": "DAVIS Evan VS SU Owen D2 V5",
+        "Fencer 1": "DAVIS Evan",
+        "Fencer 1 Score": 0,
+        "Fencer 2": "SU Owen",
+        "Fencer 2 Score": 5,
+        "Winning Fencer": "SU Owen"
+    }
+]
