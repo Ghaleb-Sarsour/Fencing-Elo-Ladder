@@ -104,7 +104,7 @@ def advanced_search(tournaments):
     tournaments.remove("6B3BC0D004094AEF90C461F8A296A0C0")
 
 
-def calc(pools, store):
+def calc(pools, store, matchlist):
 
     for pool in pools:
         driver.get(pool)
@@ -114,6 +114,8 @@ def calc(pools, store):
         fencer_2 = ""
         fencer_1_score = ""
         fencer_2_score = ""
+        score_1_clean = ""
+        score_2_clean = ""
         elo_fencer_1 = 0
         elo_fencer_2 = 0
         elo_change = 0
@@ -123,6 +125,8 @@ def calc(pools, store):
         fencer_2_win = True
         addfen1 = True
         addfen2 = True
+        matchname = ""
+        winner = ""
 
         for m in pool_matches:
             match_results = m.find_elements(By.TAG_NAME, "td")
@@ -138,10 +142,23 @@ def calc(pools, store):
             if "V" in fencer_1_score:
                 fencer_1_win = True
                 fencer_2_win = False
+                winner = fencer_1
+                score_1_clean = fencer_1_score.replace("V", "")
+                score_1_clean = int(score_1_clean)
+                score_2_clean = fencer_2_score.replace("D", "")
+                score_2_clean = int(score_2_clean)
             elif "D" in fencer_1_score:
+                score_1_clean = fencer_1_score.replace("D", "")
+                score_1_clean = int(score_1_clean)
+                score_2_clean = fencer_2_score.replace("V", "")
+                score_2_clean = int(score_2_clean)
                 fencer_1_win = False
                 fencer_2_win = True
-            
+                winner = fencer_2
+
+
+            matchname = fencer_1 + " VS " + fencer_2 + " " + fencer_1_score + " " + fencer_2_score
+
             fen1 = {
                 "name": fencer_1,
                 "rating": 1000,
@@ -159,17 +176,27 @@ def calc(pools, store):
                 "points lossed": 0
             }
             
-            #for dict in store:
-            #    if fen1["name"] == dict["name"]:
-            #        addfen1 = False
-            #    if fen2["name"] == dict["name"]:
-            #        addfen2 = False;
-            
+            fenmatch = {
+                "match": matchname,
+                "Fencer 1": fencer_1,
+                "Fencer 1 Score": score_1_clean,
+                "Fencer 2": fencer_2,
+                "Fencer 2 Score": score_2_clean,
+                "Winning Fencer": winner 
+
+            }
+
+            for dict in store:
+                if fen1["name"] == dict["name"]:
+                    addfen1 = False
+                if fen2["name"] == dict["name"]:
+                    addfen2 = False;
+            matchlist.append(fenmatch) 
             if addfen1:
                 store.append(fen1)
             if addfen2:
                 store.append(fen2)
-
+            
 
             #print(fencer_1, fencer_1_score, fencer_2_score, fencer_2, fencer_1_win, fencer_2_win)
  
@@ -181,9 +208,12 @@ list2 = []
 data = []
 add = True
 
+matchdata = []
+addmatch = True
+
 advanced_search(list1)
 page_search(list1, list2)
-calc(list2, data)
+calc(list2, data, matchdata)
 
 driver.quit()
 
@@ -204,3 +234,14 @@ for i in data:
 
 with open("./fencingdata.json", 'w') as f:
     json.dump(jsondata, f, indent=4)
+
+
+with open("./fencingmatches.json", "r") as z:
+    jsondatam = json.load(z)
+
+
+for i in matchdata:
+    jsondatam.append(i)
+
+with open("./fencingmatches.json", "w") as z:
+    json.dump(jsondatam, z, indent=4)

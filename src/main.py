@@ -65,6 +65,7 @@ def elo_calc(pools, store):
         expected = 0;
         fencer_1_win = True
         fencer_2_win = True
+        winner = ""
 
         for m in pool_matches:
             match_results = m.find_elements(By.TAG_NAME, "td")
@@ -78,14 +79,18 @@ def elo_calc(pools, store):
                 elif i == 3:
                     fencer_2_score = match_results[i].text
             if "V" in fencer_1_score:
+                winner = fencer_1
                 fencer_1_win = True
                 fencer_2_win = False
             elif "D" in fencer_1_score:
+                winner = fencer_2
                 fencer_1_win = False
                 fencer_2_win = True
 
             print(fencer_1, fencer_1_score, fencer_2_score, fencer_2, fencer_1_win, fencer_2_win)
             
+
+
 
 
 def advanced_search(tournaments): 
