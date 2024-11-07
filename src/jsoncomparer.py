@@ -50,8 +50,6 @@ for match in matches:
             fencer2rating = fencer["rating"]
 
 
-
-
     fencer1p = fencer1rating / (fencer1rating + fencer2rating)
     fencer2p = fencer2rating / (fencer1rating + fencer2rating)
 

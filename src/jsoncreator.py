@@ -7,7 +7,7 @@ options = webdriver.FirefoxOptions()
 #options.add_argument("--headless=new")
 driver = webdriver.Firefox(options=options)
 
-#Searching each page and adding pool ids to csv
+#Searching each page and adding pool ids to json
 def page_search(id_list, all_links_list):
     
     for tourn in id_list:

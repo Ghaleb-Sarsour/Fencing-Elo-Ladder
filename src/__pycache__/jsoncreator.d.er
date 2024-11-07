@@ -1,0 +1,35 @@
+##[pylyzer] failed /home/ext4/Nextcloud/Projects/Fencing-Elo-Ladder/src/jsoncreator.py 1730738671 8316
+.json = pyimport "<failure>"
+.<failure> = pyimport "<failure>"
+
+.___v_desugar_1 = pyimport "<failure>"
+
+.webdriver: Never
+.___v_desugar_2 = pyimport "<failure>"
+
+.By: Never
+.options: Never
+.driver: Never
+.page_search: (id_list: Iterable(Str), all_links_list: RefMut(List!(Never, _: Nat) ~> List!(Never, _: Nat + 1)) or RefMut(ByteArray!)) -> NoneType
+.advanced_search: (tournaments: Never) -> NoneType
+.calc: |T :> Dict!({{"Winning Fencer"}: {""}, {"Fencer 2"}: {""}, {"match"}: Str, {"Fencer 1 Score"}: Str, {"Fencer 1"}: {""}, {"Fencer 2 Score"}: Str}), T: Type, T :> Dict!({{"points lossed"}: {0}, {"wins"}: {0}, {"name"}: {""}, {"losses"}: {0}, {"points earned"}: {0}, {"rating"}: {1000}}), N: Nat|(pools: Iterable(T), store: RefMut(ByteArray!) or RefMut(List!(T, N) ~> List!(T, N + 1)), matchlist: RefMut(ByteArray!) or RefMut(List!(T, N) ~> List!(T, N + 1))) -> NoneType
+.list1: List!(Never, 0)
+.list2: List!(Never, 0)
+.data: List!(Indexable(Obj, Never), 0)
+.add: {True}
+.matchdata: List!(Never, 0)
+.addmatch: {True}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

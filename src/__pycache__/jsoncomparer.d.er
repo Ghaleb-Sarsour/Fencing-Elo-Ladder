@@ -1,0 +1,26 @@
+##[pylyzer] failed /home/ext4/Nextcloud/Projects/Fencing-Elo-Ladder/src/jsoncomparer.py 1730738671 2745
+.json = pyimport "<failure>"
+.<failure> = pyimport "<failure>"
+
+.fencer1: {""}
+.fencer1pointse: {0}
+.fencer1pointsl: {0}
+.fencer1wins: {0}
+.fencer1loss: {0}
+.fencer1score: {0}
+.fencer1location: {0}
+.fencer1rating: {0}
+.fencer1finalrating: {0}
+.fencer2: {""}
+.fencer2pointse: {0}
+.fencer2pointsl: {0}
+.fencer2wins: {0}
+.fencer2loss: {0}
+.fencer2score: {0}
+.fencer2location: {0}
+.fencer2rating: {0}
+.fencer2finalrating: {0}
+.winner: {""}
+
+
+
