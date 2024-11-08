@@ -10,19 +10,19 @@ options = webdriver.FirefoxOptions()
 profile = webdriver.FirefoxProfile()
 
 # Set the download directory
-download_dir = "./"
-profile = {
-    "browser.download.dir": download_dir,  # Set download directory
-    "browser.download.folderList": 2,  # 2 = use custom location
-    "browser.download.manager.showWhenStarting": False,  # Hide the download manager
-    "browser.download.useDownloadDir": True,  # Use the download directory
-    "pdfjs.disabled": True,  # Disable the built-in PDF viewer (optional)
-    "browser.helperApps.neverAsk.saveToDisk": "application/octet-stream,application/pdf"  # (optional) Set MIME types
-}
+#download_dir = "./"
+#profile = {
+#     "browser.download.dir": download_dir,  # Set download directory
+#     "browser.download.folderList": 2,  # 2 = use custom location
+#     "browser.download.manager.showWhenStarting": False,  # Hide the download manager
+#     "browser.download.useDownloadDir": True,  # Use the download directory
+#     "pdfjs.disabled": True,  # Disable the built-in PDF viewer (optional)
+#     "browser.helperApps.neverAsk.saveToDisk": "application/octet-stream,application/pdf"  # (optional) Set MIME types
+# #}
 
 # Apply preferences to options
-for key, value in profile.items():
-    options.set_preference(key, value)
+#for key, value in profile.items():
+#    options.set_preference(key, value)
 
 #options.add_argument("--headless=new")
 driver = webdriver.Firefox(options=options)
